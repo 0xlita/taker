@@ -4487,3 +4487,12 @@
 5/4/2025 | 1:40:30 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 5/4/2025 | 1:40:30 AM | INFO | Trying to activate mining on-chain for wallet: 0x8cCfcc34dCBf4896ec79837001488646045Ba3c7 
 5/4/2025 | 1:40:41 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x8bd249a5312f8072c57e45f673c08c9bcf6fd2a96607b8f39f8948059749aa10 
+5/4/2025 | 4:21:41 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/4/2025 | 4:21:41 AM | INFO | Start process for wallet 0x8cCfcc34dCBf4896ec79837001488646045Ba3c7 
+5/4/2025 | 4:21:42 AM | INFO | Trying To Login for wallet: 0x8cCfcc34dCBf4896ec79837001488646045Ba3c7 
+5/4/2025 | 4:21:42 AM | INFO | Login successful... 
+5/4/2025 | 4:21:42 AM | INFO | Trying to check user info... 
+5/4/2025 | 4:21:43 AM | INFO | User ID: 28367731 | Twitter: @melitaadeline | Total Points: 1706680 
+5/4/2025 | 4:21:43 AM | INFO | Trying to check user miner status... 
+5/4/2025 | 4:21:44 AM | INFO | Last mining time: 5/4/2025, 1:40:36 AM
+5/4/2025 | 4:21:44 AM | WARN | Mining already started, next mining time is: 5/5/2025, 1:40:36 AM
