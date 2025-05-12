@@ -4928,3 +4928,15 @@
 5/11/2025 | 8:18:15 PM | INFO | Trying to check user miner status... 
 5/11/2025 | 8:18:16 PM | INFO | Last mining time: 5/10/2025, 8:18:18 PM
 5/11/2025 | 8:18:16 PM | WARN | Mining already started, next mining time is: 5/11/2025, 8:18:18 PM
+5/12/2025 | 1:37:53 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/12/2025 | 1:37:53 AM | INFO | Start process for wallet 0x8cCfcc34dCBf4896ec79837001488646045Ba3c7 
+5/12/2025 | 1:37:54 AM | INFO | Trying To Login for wallet: 0x8cCfcc34dCBf4896ec79837001488646045Ba3c7 
+5/12/2025 | 1:37:55 AM | INFO | Login successful... 
+5/12/2025 | 1:37:55 AM | INFO | Trying to check user info... 
+5/12/2025 | 1:37:55 AM | INFO | User ID: 28367731 | Twitter: @melitaadeline | Total Points: 1850680 
+5/12/2025 | 1:37:55 AM | INFO | Trying to check user miner status... 
+5/12/2025 | 1:38:00 AM | INFO | Last mining time: 5/10/2025, 8:18:18 PM
+5/12/2025 | 1:38:00 AM | INFO | Trying to start Mining for wallet: 0x8cCfcc34dCBf4896ec79837001488646045Ba3c7 
+5/12/2025 | 1:38:06 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/12/2025 | 1:38:06 AM | INFO | Trying to activate mining on-chain for wallet: 0x8cCfcc34dCBf4896ec79837001488646045Ba3c7 
+5/12/2025 | 1:38:23 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xb2105f1020e5605e500ad8e95f32c9c8609520ff5b3a35ae63ae89c1ae227e87 
