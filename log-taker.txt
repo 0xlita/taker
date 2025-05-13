@@ -5036,3 +5036,12 @@
 5/13/2025 | 12:39:01 PM | INFO | Trying to activate mining on-chain for wallet: 0x8cCfcc34dCBf4896ec79837001488646045Ba3c7 
 5/13/2025 | 12:39:01 PM | ERROR | Activate Mining Error: {"code":"ECONNRESET","path":null,"host":"rpc-mainnet.taker.xyz","port":443}
 5/13/2025 | 12:39:01 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/13/2025 | 4:24:00 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/13/2025 | 4:24:00 PM | INFO | Start process for wallet 0x8cCfcc34dCBf4896ec79837001488646045Ba3c7 
+5/13/2025 | 4:24:01 PM | INFO | Trying To Login for wallet: 0x8cCfcc34dCBf4896ec79837001488646045Ba3c7 
+5/13/2025 | 4:24:02 PM | INFO | Login successful... 
+5/13/2025 | 4:24:02 PM | INFO | Trying to check user info... 
+5/13/2025 | 4:24:03 PM | INFO | User ID: 28367731 | Twitter: @melitaadeline | Total Points: 1898680 
+5/13/2025 | 4:24:03 PM | INFO | Trying to check user miner status... 
+5/13/2025 | 4:24:06 PM | INFO | Last mining time: 5/13/2025, 4:23:18 AM
+5/13/2025 | 4:24:06 PM | WARN | Mining already started, next mining time is: 5/14/2025, 4:23:18 AM
